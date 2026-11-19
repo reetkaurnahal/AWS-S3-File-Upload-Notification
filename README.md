@@ -1,5 +1,5 @@
 # AWS-S3-File-Upload-Notification
-# AWS S3 File Upload Notification POC
+
 
 ## Overview
 
